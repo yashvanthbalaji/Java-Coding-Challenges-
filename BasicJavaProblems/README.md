@@ -1,6 +1,6 @@
 # 📘 Basic Java Problems
 
-This folder contains a collection of **basic Java programs** to practice and strengthen problem-solving skills.
+This folder contains a collection of **basic Java programs** to practice and strengthen problem-solving skill
 
 ---
 

@@ -14,6 +14,8 @@ This folder contains a collection of **basic Java programs** to practice and str
 * ReverseNumber.java
 * StringReverse.java
 * SumOfDigits.java
+* StrongNum.java
+* Factorial.java
 
 ---
 
@@ -27,6 +29,8 @@ This folder contains a collection of **basic Java programs** to practice and str
 * **Primenumber.java** → Checks if a number is prime.
 * **SumOfDigits.java** → Calculates sum of digits of a number.
 * **NumberOfDigits.java** → Counts number of digits in a number.
+* **StrongNum.java** → Checks if a number is a Strong number (sum of factorial of digits equals the number).
+* **Factorial.java** → Finds factorial of a number.
 
 ---
 

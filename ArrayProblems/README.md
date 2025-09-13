@@ -1,7 +1,7 @@
-# ✨ String Problems - Java Coding Challenges ✨
+# ✨ Array Problems - Java Coding Challenges ✨
 
 Welcome to the **StringProblems** section of Java Coding Challenges! 🚀
-Here, you’ll find simple and effective Java programs that solve **array and string-related problems**. Each program is designed to help beginners practice logic, coding style, and problem-solving. 💡
+Here, you’ll find simple and effective Java programs that solve **array related problems**. Each program is designed to help beginners practice logic, coding style, and problem-solving. 💡
 
 ---
 
@@ -78,8 +78,6 @@ Output: `Sum = 20`
 
 In the coming days, more problems will be added such as:
 
-* 🔤 String reversal
-* 🔍 Palindrome check
 * 🧮 Frequency of characters
 * 🎲 Pattern-based challenges
 

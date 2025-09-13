@@ -1,4 +1,4 @@
-package StringProblems;
+package ArrayProblems;
 import java.util.Scanner;
 
 public class BubbleSort 

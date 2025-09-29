@@ -16,6 +16,7 @@ This repository is a **personal Java practice collection** where I solve differe
 
 * **`BasicJavaProblems/`** → Beginner-friendly Java programs (Fibonacci, Palindrome, Prime numbers, etc.)
 * **`PatternPrograms/`** → Java pattern-printing programs (triangles, pyramids, etc.)
+* **`ArrayProblems/`** → Java Array programs (reverse array, duplicate array, etc.)
 
   * Each subfolder has its own `README.md` for explanations.
 * More categories (e.g., **Intermediate**, **Advanced**, **Data Structures**, **Algorithms**) will be added in the future.

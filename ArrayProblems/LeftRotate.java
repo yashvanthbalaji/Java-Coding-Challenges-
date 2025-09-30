@@ -24,6 +24,12 @@ public class LeftRotate
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the array size :"); 
         int size = scanner.nextInt();
+        if (size <= 0)
+        {
+        System.out.println("Invalid array size.");
+        scanner.close();
+        return;
+        }
         int[] arr = new int[size];
         System.out.println("Enter the array elements");
         for(int i = 0 ; i< arr.length ; i++)
